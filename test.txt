@@ -19,6 +19,7 @@ ff02::3 ip6-allhosts
 # Custom host records are listed here.
 
 52.149.246.39 ddg.net
+192.168.1.157 asdfghjkl.com
 
 # End of custom host records.
 
